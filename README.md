@@ -39,11 +39,6 @@ input_data = pd.DataFrame({'Weight': [3300], 'Volume': [1300]})
 predictedCO2 = regr.predict(input_data)
 print('Predicted CO2 for the corresponding weight and volume:', predictedCO2)
 
-
-
-
-
-
 ```
 ## Output:
 
